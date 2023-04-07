@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appTravellingH1" format="reference"/>
+    <attr name="appTravellingH2" format="reference"/>
+    <attr name="appTravellingH3" format="reference"/>
+    <attr name="appTravellingH4" format="reference"/>
+    <attr name="appTravellingH5" format="reference"/>
+    <attr name="appTravellingH4Inv" format="reference"/>
+    <attr name="appTravellingB1" format="reference"/>
+    <attr name="appTravellingB2" format="reference"/>
+    <attr name="appTravellingButton" format="reference"/>
+    <attr name="appTravellingButtonFilled" format="reference"/>
+    <attr name="appTravellingButtonFilledNormal" format="reference"/>
+    <attr name="appTravellingButtonFilledBottom" format="reference"/>
+    <attr name="appTravellingButtonOutline" format="reference"/>
+    <attr name="appTravellingButtonOutlineBase" format="reference"/>
+
+    <attr name="appTravellingBtnIconOnly" format="reference"/>
+</resources>
